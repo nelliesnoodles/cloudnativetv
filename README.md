@@ -80,6 +80,7 @@ shows and share news related to CloudNative.tv
 - Alison Dowdney ([@alisondy](https://github.com/alisondy)), Weaveworks
 - Kunal Kushwaha ([@kunal-kushwaha](https://github.com/kunal-kushwaha)), Code for Cause
 - Paul Czarkowski ([@paulczar](github.com/users/paulczar)), Red Hat
+- Nellie Tobey ([@nelliesnoodles](https://github.com/nelliesnoodles)), Data on Kubernetes
   
 ## Emeritus SIG members
 - Anais Urlichs ([@AnaisUrlichs](https://github.com/AnaisUrlichs)), Civo
